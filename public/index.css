@@ -1,0 +1,28 @@
+.MuiButton-containedPrimary{ 
+    background-color: #e4002b;
+}
+
+.MuiTypography-colorPrimary{
+    color: red;
+}
+.jss62 {
+    background: url('./logo.png');
+    background-repeat: no-repeat;
+}
+
+.custom_jss51 {
+    background: url('./images/1.png'); 
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.jss65 {
+    background: url('./images/3.png' ); 
+}
+.jss180 { 
+    background:url('./images/66.png');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.jss179 {
+    background-color: red;
+}
